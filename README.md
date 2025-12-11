@@ -61,16 +61,11 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-## 🧰 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,ansible,jenkins,linux,python,bash,prometheus,grafana" />
 </p>
 
 ### 📊 GitHub Stats
- ### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akembona&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 
 <p align="center">
