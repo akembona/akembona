@@ -25,9 +25,16 @@
 <a href="https://twitter.com/akembona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akembona" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel-azure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-azure" height="30" width="40" /></a>
 </p>
- 💫 About Me:
-<br><br><br>👋 Hi, I’m Emmanuel<br><br>I’m a **Cloud & DevOps Engineer** passionate about building scalable, secure, and automated solutions in the cloud. I specialize in **AWS**, **Docker**, **Kubernetes**, and **CI/CD pipelines**, and I enjoy turning complex infrastructure challenges into simple, automated workflows.<br><br>🔹 I design and deploy cloud-native applications using **AWS services** (VPC, ECS, EKS, Lambda, Route 53, and more).<br>🔹 I containerize applications with **Docker** and manage deployments using **ECR, ECS, and Kubernetes**.<br>🔹 I build **Infrastructure as Code (IaC)** with **Terraform** and **CloudFormation**.<br>🔹 I implement **CI/CD pipelines** with tools like **GitHub Actions, Jenkins, and AWS CodePipeline**.<br>🔹 I prioritize **security, scalability, and cost optimization** in every solution I deliver.<br><br>
 
+---
+
+### 🚀 About Me
+- 🌩️ Cloud & DevOps Engineer passionate about automation, infrastructure scaling, and cloud security.
+- 🛠️ I work with **AWS, Terraform, Docker, Kubernetes, CI/CD, Ansible, Linux** and modern DevOps tooling.
+- 💡 I enjoy building cloud-native architectures and solving complex infra challenges.
+- 📚 Always learning and experimenting with new technologies.
+
+---
 
 
 
