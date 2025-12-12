@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1432962983/vector/quantum-computer-technologies-concept-futuristic-blue-circuit-board-background-vector-modern.jpg?s=612x612&w=0&k=20&c=e1KLxKFTLgTl63XMzKHglI8O8fnaMMCm-Z3jLxI7Ti8=" alt="Emmanuel Azure Banner" />
+  <img src="https://as2.ftcdn.net/jpg/05/34/75/21/1000_F_534752166_7ehHwnO9WhbzpsmsaOgMd5UAECAXnKJu.jpg" alt="Emmanuel Azure Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emmanuel Azure</h1>
