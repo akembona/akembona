@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://as2.ftcdn.net/jpg/05/34/75/21/1000_F_534752166_7ehHwnO9WhbzpsmsaOgMd5UAECAXnKJu.jpg" alt="Emmanuel Azure Banner" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Emmanuel Azure</h1>
+<img src="[  ](https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif)"/>
 <h3 align="center">A Passionate Cloud/DevOps Engineer form Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
